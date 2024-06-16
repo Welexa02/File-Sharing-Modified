@@ -37,8 +37,8 @@ FORCESUB_CHANNEL2 = int(os.environ.get("FORCESUB_CHANNEL2", "-1002021004168"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
-START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/9f10cfb5ea93d4766357e.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/541d20525d6938d2fd77e.jpg")
+START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/9e9a7b7e61fb9b86d83fb.jpg")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/bde04d2c8e6b1571a8215.jpg")
 
 HELP_TXT = "<b>Hi Dude!\nThis is an file to link bot work for @AnimeX_Hyper\n\n❏ Bot Cammands\n├/start : start the bot\n├/about : Our Information\n└/help : Help related Bot\n\n💥 Simply click on link and start the bot join both channels and try again thats it.....!\n\n🧑‍💻 Developed by <a href=https://t.me/Its_Welexa>Welexa</a></b>"
 
